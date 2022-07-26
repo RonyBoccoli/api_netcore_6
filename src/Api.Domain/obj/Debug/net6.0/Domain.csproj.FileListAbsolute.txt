@@ -1,0 +1,12 @@
+/home/rony/estudo_api_netcore/src/Api.Domain/bin/Debug/net6.0/Domain.deps.json
+/home/rony/estudo_api_netcore/src/Api.Domain/bin/Debug/net6.0/Domain.dll
+/home/rony/estudo_api_netcore/src/Api.Domain/bin/Debug/net6.0/Domain.pdb
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.dll
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/Domain.pdb
+/home/rony/estudo_api_netcore/src/Api.Domain/obj/Debug/net6.0/ref/Domain.dll

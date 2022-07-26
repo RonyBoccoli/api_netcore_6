@@ -1,0 +1,12 @@
+/home/rony/estudo_api_netcore/src/Api.Service/bin/Debug/net6.0/Service.deps.json
+/home/rony/estudo_api_netcore/src/Api.Service/bin/Debug/net6.0/Service.dll
+/home/rony/estudo_api_netcore/src/Api.Service/bin/Debug/net6.0/Service.pdb
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.csproj.AssemblyReference.cache
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.AssemblyInfoInputs.cache
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.AssemblyInfo.cs
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.csproj.CoreCompileInputs.cache
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.dll
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/refint/Service.dll
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/Service.pdb
+/home/rony/estudo_api_netcore/src/Api.Service/obj/Debug/net6.0/ref/Service.dll
